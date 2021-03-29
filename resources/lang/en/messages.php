@@ -1,0 +1,28 @@
+<?php
+return [
+  'home' => 'Home',
+  'blog' => 'Blog',
+  'opportunities' => 'Opportunities',
+  'events' => 'Events',
+  'policy' => 'Policy',
+  'about' => 'About Us',
+  'language' => 'Language',
+  'latest_blog' => 'Latest Blogs',
+  'blog_text' => 'Read our latest blogs, and get extra knowledge',
+  'read_more' => 'Read More',
+  'latest_event' => 'Latest Events',
+  'event_text' => 'Take a look at our latest Events',
+  'footer_text' => 'DMOYA - Official Website',
+  'links' => 'Useful Links',
+  'get_in_touch' => 'Get in touch',
+  'copyright' => ' © 2021 DMOYA, website By Fazl Rabi',
+  'contact' => 'Contact Us',
+  'contact_message' => 'Send us a message, we are available 24/7',
+  'contact_sent' => 'Your message has been sent successfully.',
+  'name' => 'Your Name',
+  'mail' => 'Your Email',
+  'subject' => 'Subject',
+  'message' => 'Message',
+  'send' => 'Send Message',
+  'message_sent' => 'Your message has been successfully sent.'
+];
